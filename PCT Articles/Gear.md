@@ -7,3 +7,5 @@
 <a href = https://www.rei.com/learn/expert-advice/ultralight-backpacking.html>REI ultralight guide</a>
 
 <a href = https://www.rei.com/blog/travel/pacific-crest-trail-backpacking-gear-list>REI general packing list</a>
+
+<a href = https://www.halfwayanywhere.com/gear/gear-lists/backpacking-2018-1>halfway anywhere gear list</a>
