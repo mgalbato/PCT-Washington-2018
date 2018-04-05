@@ -9,3 +9,5 @@
 <a href = https://www.rei.com/blog/travel/pacific-crest-trail-backpacking-gear-list>REI general packing list</a>
 
 <a href = https://www.halfwayanywhere.com/gear/gear-lists/backpacking-2018-1>halfway anywhere gear list</a>
+
+<a href = https://www.halfwayanywhere.com/trails/pacific-crest-trail/ultimate-pacific-crest-trail-packing-list/>halfway anywhere PCT gear list</a>
